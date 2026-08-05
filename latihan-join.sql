@@ -5,4 +5,4 @@ SELECT * FROM customers;
 
 SELECT company, city 
 FROM customers
-WHERE city = 'Malang' OR city = 'naura';
+WHERE city = 'Blitar' OR city = 'naura';
